@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Level_01_Slide.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Level_02_Walls_And_Windows.unity
+    path: Assets/Scenes/Level_02_Walls_And_Halls.unity
     guid: 47a15b0e0f4e71b498519153ccc70662
   - enabled: 0
     path: Assets/Scenes/Level_03_Ramps_And_Jumps.unity
