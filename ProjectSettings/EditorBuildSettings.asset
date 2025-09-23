@@ -12,14 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Level_01_Slide.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Level_02_Walls_And_Halls.unity
+    path: Assets/Scenes/Level02_Tunnels_With_Funnels.unity
+    guid: 781815e86fd28fc44a387b56f6a1d1d9
+  - enabled: 1
+    path: Assets/Scenes/Level_03_Walls_And_Halls.unity
     guid: 47a15b0e0f4e71b498519153ccc70662
   - enabled: 1
-    path: Assets/Scenes/Level03_Ramps_And_Bridges.unity
+    path: Assets/Scenes/Level04_Bonus_Ramps_And_Jumps.unity
     guid: cb72925719a235648835ed9652b3fb1b
-  - enabled: 1
-    path: Assets/Scenes/Level_04_BONUS.unity
-    guid: 781815e86fd28fc44a387b56f6a1d1d9
   - enabled: 0
     path: Assets/Scenes/Level_05.unity
     guid: fc21d6631baaf4c45af1719e5c060db2
